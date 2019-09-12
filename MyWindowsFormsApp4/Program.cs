@@ -17,8 +17,8 @@ namespace MyWindowsFormsApp4
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Home());
-            //Application.Run(new DataTypUi());
-            Application.Run(new ConditionUi());
+            Application.Run(new DataTypUi());
+            //Application.Run(new ConditionUi());
         }
     }
 }

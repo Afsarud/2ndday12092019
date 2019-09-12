@@ -30,7 +30,7 @@ namespace MyWindowsFormsApp4
             }
             else
             {
-                MessageBox.Show(itemComboBox.Text + "is Selected");
+                MessageBox.Show(itemComboBox.Text + " is Selected");
             }
         }
     }

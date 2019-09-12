@@ -38,7 +38,8 @@
             this.itemComboBox.Items.AddRange(new object[] {
             "Afsar",
             "Tanbor",
-            "Monir"});
+            "Monir",
+            "Amin Hisen"});
             this.itemComboBox.Location = new System.Drawing.Point(56, 179);
             this.itemComboBox.Name = "itemComboBox";
             this.itemComboBox.Size = new System.Drawing.Size(121, 21);

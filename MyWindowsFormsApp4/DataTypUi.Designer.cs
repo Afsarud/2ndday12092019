@@ -35,11 +35,15 @@
             this.nameTextBox = new System.Windows.Forms.TextBox();
             this.secondNumberTextBox = new System.Windows.Forms.TextBox();
             this.firstNumberTextBox = new System.Windows.Forms.TextBox();
+            this.addButton = new System.Windows.Forms.Button();
+            this.subButton = new System.Windows.Forms.Button();
+            this.multButton = new System.Windows.Forms.Button();
+            this.divisionButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // showButton
             // 
-            this.showButton.Location = new System.Drawing.Point(348, 280);
+            this.showButton.Location = new System.Drawing.Point(259, 384);
             this.showButton.Name = "showButton";
             this.showButton.Size = new System.Drawing.Size(75, 23);
             this.showButton.TabIndex = 0;
@@ -96,11 +100,55 @@
             this.firstNumberTextBox.Size = new System.Drawing.Size(157, 20);
             this.firstNumberTextBox.TabIndex = 6;
             // 
+            // addButton
+            // 
+            this.addButton.Location = new System.Drawing.Point(71, 280);
+            this.addButton.Name = "addButton";
+            this.addButton.Size = new System.Drawing.Size(75, 23);
+            this.addButton.TabIndex = 7;
+            this.addButton.Text = "Add";
+            this.addButton.UseVisualStyleBackColor = true;
+            this.addButton.Click += new System.EventHandler(this.addButton_Click);
+            // 
+            // subButton
+            // 
+            this.subButton.Location = new System.Drawing.Point(196, 280);
+            this.subButton.Name = "subButton";
+            this.subButton.Size = new System.Drawing.Size(75, 23);
+            this.subButton.TabIndex = 8;
+            this.subButton.Text = "Subtraction";
+            this.subButton.UseVisualStyleBackColor = true;
+            this.subButton.Click += new System.EventHandler(this.subButton_Click);
+            // 
+            // multButton
+            // 
+            this.multButton.Location = new System.Drawing.Point(327, 280);
+            this.multButton.Name = "multButton";
+            this.multButton.Size = new System.Drawing.Size(75, 23);
+            this.multButton.TabIndex = 9;
+            this.multButton.Text = "Multiplication";
+            this.multButton.UseVisualStyleBackColor = true;
+            this.multButton.Click += new System.EventHandler(this.multButton_Click);
+            // 
+            // divisionButton
+            // 
+            this.divisionButton.Location = new System.Drawing.Point(460, 280);
+            this.divisionButton.Name = "divisionButton";
+            this.divisionButton.Size = new System.Drawing.Size(75, 23);
+            this.divisionButton.TabIndex = 10;
+            this.divisionButton.Text = "Division";
+            this.divisionButton.UseVisualStyleBackColor = true;
+            this.divisionButton.Click += new System.EventHandler(this.divisionButton_Click);
+            // 
             // DataTypUi
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(779, 450);
+            this.Controls.Add(this.divisionButton);
+            this.Controls.Add(this.multButton);
+            this.Controls.Add(this.subButton);
+            this.Controls.Add(this.addButton);
             this.Controls.Add(this.firstNumberTextBox);
             this.Controls.Add(this.secondNumberTextBox);
             this.Controls.Add(this.nameTextBox);
@@ -125,5 +173,9 @@
         private System.Windows.Forms.TextBox nameTextBox;
         private System.Windows.Forms.TextBox secondNumberTextBox;
         private System.Windows.Forms.TextBox firstNumberTextBox;
+        private System.Windows.Forms.Button addButton;
+        private System.Windows.Forms.Button subButton;
+        private System.Windows.Forms.Button multButton;
+        private System.Windows.Forms.Button divisionButton;
     }
 }
