@@ -1,0 +1,34 @@
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe.config
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.pdb
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csprojAssemblyReference.cache
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Properties.Resources.resources
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.GenerateResource.cache
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.exe
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.pdb
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Home.resources
+D:\afsar\Secondday\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe.config
+D:\afsar\Secondday\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe
+D:\afsar\Secondday\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.pdb
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csprojAssemblyReference.cache
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Home.resources
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Properties.Resources.resources
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.GenerateResource.cache
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.exe
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.pdb
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.DataTypUi.resources
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.ConditionUi.resources
+F:\Batch6Afsar\2ndday12092019\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe.config
+F:\Batch6Afsar\2ndday12092019\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe
+F:\Batch6Afsar\2ndday12092019\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.pdb
+F:\Batch6Afsar\2ndday12092019\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csprojAssemblyReference.cache
+F:\Batch6Afsar\2ndday12092019\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.ConditionUi.resources
+F:\Batch6Afsar\2ndday12092019\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.DataTypUi.resources
+F:\Batch6Afsar\2ndday12092019\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Home.resources
+F:\Batch6Afsar\2ndday12092019\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Properties.Resources.resources
+F:\Batch6Afsar\2ndday12092019\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.GenerateResource.cache
+F:\Batch6Afsar\2ndday12092019\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.CoreCompileInputs.cache
+F:\Batch6Afsar\2ndday12092019\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.exe
+F:\Batch6Afsar\2ndday12092019\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.pdb
