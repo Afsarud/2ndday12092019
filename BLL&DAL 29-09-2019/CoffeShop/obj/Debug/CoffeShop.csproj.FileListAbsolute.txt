@@ -1,0 +1,58 @@
+F:\Batch6Afsar\Pclink\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe.config
+F:\Batch6Afsar\Pclink\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe
+F:\Batch6Afsar\Pclink\CoffeShop\CoffeShop\bin\Debug\CoffeShop.pdb
+F:\Batch6Afsar\Pclink\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csprojAssemblyReference.cache
+F:\Batch6Afsar\Pclink\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Form1.resources
+F:\Batch6Afsar\Pclink\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+F:\Batch6Afsar\Pclink\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.cache
+F:\Batch6Afsar\Pclink\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csproj.CoreCompileInputs.cache
+F:\Batch6Afsar\Pclink\CoffeShop\CoffeShop\obj\Debug\CoffeShop.exe
+F:\Batch6Afsar\Pclink\CoffeShop\CoffeShop\obj\Debug\CoffeShop.pdb
+F:\Batch6Afsar\Pclink\CoffeShop\CoffeShop\obj\Debug\CoffeShop.BookShop.resources
+C:\Users\afsar\Downloads\CoffeeShop12092019-master\CoffeShop\bin\Debug\CoffeShop.exe.config
+C:\Users\afsar\Downloads\CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.exe
+C:\Users\afsar\Downloads\CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.pdb
+C:\Users\afsar\Downloads\CoffeeShop12092019-master\CoffeShop\bin\Debug\CoffeShop.exe
+C:\Users\afsar\Downloads\CoffeeShop12092019-master\CoffeShop\bin\Debug\CoffeShop.pdb
+C:\Users\afsar\Downloads\CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.csprojResolveAssemblyReference.cache
+C:\Users\afsar\Downloads\CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.BookShop.resources
+C:\Users\afsar\Downloads\CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.Form1.resources
+C:\Users\afsar\Downloads\CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+C:\Users\afsar\Downloads\CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.Cache
+E:\BITM PROJECT INFO\project1\ConsoleApp\Day2CoffeeShop12092019\CoffeShop\bin\Debug\CoffeShop.exe.config
+E:\BITM PROJECT INFO\project1\ConsoleApp\Day2CoffeeShop12092019\CoffeShop\obj\Debug\CoffeShop.exe
+E:\BITM PROJECT INFO\project1\ConsoleApp\Day2CoffeeShop12092019\CoffeShop\obj\Debug\CoffeShop.pdb
+E:\BITM PROJECT INFO\project1\ConsoleApp\Day2CoffeeShop12092019\CoffeShop\obj\Debug\CoffeShop.csprojResolveAssemblyReference.cache
+E:\BITM PROJECT INFO\project1\ConsoleApp\Day2CoffeeShop12092019\CoffeShop\obj\Debug\CoffeShop.BookShop.resources
+E:\BITM PROJECT INFO\project1\ConsoleApp\Day2CoffeeShop12092019\CoffeShop\obj\Debug\CoffeShop.CoffeeShop.resources
+E:\BITM PROJECT INFO\project1\ConsoleApp\Day2CoffeeShop12092019\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+E:\BITM PROJECT INFO\project1\ConsoleApp\Day2CoffeeShop12092019\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.Cache
+E:\BITM PROJECT INFO\project1\ConsoleApp\Day2CoffeeShop12092019\CoffeShop\bin\Debug\CoffeShop.exe
+E:\BITM PROJECT INFO\project1\ConsoleApp\Day2CoffeeShop12092019\CoffeShop\bin\Debug\CoffeShop.pdb
+C:\Users\Admin\Downloads\Day2CoffeeShop12092019-master\CoffeShop\bin\Debug\CoffeShop.exe.config
+C:\Users\Admin\Downloads\Day2CoffeeShop12092019-master\CoffeShop\bin\Debug\CoffeShop.exe
+C:\Users\Admin\Downloads\Day2CoffeeShop12092019-master\CoffeShop\bin\Debug\CoffeShop.pdb
+C:\Users\Admin\Downloads\Day2CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Day2CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.BookShop.resources
+C:\Users\Admin\Downloads\Day2CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.CoffeeShop.resources
+C:\Users\Admin\Downloads\Day2CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+C:\Users\Admin\Downloads\Day2CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Day2CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Day2CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.exe
+C:\Users\Admin\Downloads\Day2CoffeeShop12092019-master\CoffeShop\obj\Debug\CoffeShop.pdb
+F:\Batch6Afsar\afsartext\CoffeShop\bin\Debug\CoffeShop.exe.config
+F:\Batch6Afsar\afsartext\CoffeShop\bin\Debug\CoffeShop.exe
+F:\Batch6Afsar\afsartext\CoffeShop\bin\Debug\CoffeShop.pdb
+F:\Batch6Afsar\afsartext\CoffeShop\obj\Debug\CoffeShop.csprojAssemblyReference.cache
+F:\Batch6Afsar\afsartext\CoffeShop\obj\Debug\CoffeShop.BookShop.resources
+F:\Batch6Afsar\afsartext\CoffeShop\obj\Debug\CoffeShop.CoffeeShop.resources
+F:\Batch6Afsar\afsartext\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+F:\Batch6Afsar\afsartext\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.cache
+F:\Batch6Afsar\afsartext\CoffeShop\obj\Debug\CoffeShop.csproj.CoreCompileInputs.cache
+F:\Batch6Afsar\afsartext\CoffeShop\obj\Debug\CoffeShop.exe
+F:\Batch6Afsar\afsartext\CoffeShop\obj\Debug\CoffeShop.pdb
+F:\Batch6Afsar\afsartext\CoffeShop\obj\Debug\CoffeShop.CoffeeShopListUi.resources
+F:\Batch6Afsar\afsartext\CoffeShop\obj\Debug\CoffeShop.StudentIformatioListUi.resources
+F:\Batch6Afsar\afsartext\CoffeShop\obj\Debug\CoffeShop.SoldierUi.resources
+F:\Batch6Afsar\afsartext\CoffeShop\obj\Debug\CoffeShop.CoffeeShopDBUi.resources
+F:\Batch6Afsar\afsartext\CoffeShop\obj\Debug\CoffeShop.CustomerUi.resources
