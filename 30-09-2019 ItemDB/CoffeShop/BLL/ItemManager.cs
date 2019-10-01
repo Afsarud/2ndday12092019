@@ -18,11 +18,12 @@ namespace CoffeShop.BLL
         }
         public bool CheckUniqueName(string name)
         {
-            return _itemRepository.Add(name);
+            return _itemRepository.CheckUniqueName(name);
         }
-        public bool showResult()
+        public DataTable showResult()
         {
-           return showResult();
+            return _itemRepository.showResult();
         }
+       
     }
 }

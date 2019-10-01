@@ -15,6 +15,8 @@ namespace CoffeShop
     public partial class ItemsUi : Form
     {
         ItemManager _itemManager = new ItemManager();
+        
+
         public ItemsUi()
         {
             InitializeComponent();
@@ -52,10 +54,7 @@ namespace CoffeShop
         }
         private void button2_Click(object sender, EventArgs e)
         {
-            if (!showResult())
-            {
-                MessageBox.Show("Data Not found");
-            }
+            _itemManager.showResult();
             idTextBox.Show();
             idLabel.Show();
             idTextBox.Clear();

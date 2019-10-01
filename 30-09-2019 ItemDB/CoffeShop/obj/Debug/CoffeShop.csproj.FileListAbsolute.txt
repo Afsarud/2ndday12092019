@@ -89,3 +89,20 @@ F:\Batch6Afsar\HomePractice-master\CoffeeShop-Item29092019\CoffeShop\obj\Debug\C
 F:\Batch6Afsar\HomePractice-master\CoffeeShop-Item29092019\CoffeShop\obj\Debug\CoffeShop.csproj.CoreCompileInputs.cache
 F:\Batch6Afsar\HomePractice-master\CoffeeShop-Item29092019\CoffeShop\obj\Debug\CoffeShop.exe
 F:\Batch6Afsar\HomePractice-master\CoffeeShop-Item29092019\CoffeShop\obj\Debug\CoffeShop.pdb
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\bin\Debug\CoffeShop.exe.config
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\bin\Debug\CoffeShop.exe
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\bin\Debug\CoffeShop.pdb
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\obj\Debug\CoffeShop.csprojAssemblyReference.cache
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\obj\Debug\CoffeShop.BookShop.resources
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\obj\Debug\CoffeShop.CoffeeShop.resources
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\obj\Debug\CoffeShop.CoffeeShopDBUi.resources
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\obj\Debug\CoffeShop.CoffeeShopListUi.resources
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\obj\Debug\CoffeShop.CustomerUi.resources
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\obj\Debug\CoffeShop.ItemsUi.resources
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\obj\Debug\CoffeShop.SoldierUi.resources
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\obj\Debug\CoffeShop.StudentIformatioListUi.resources
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.cache
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\obj\Debug\CoffeShop.csproj.CoreCompileInputs.cache
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\obj\Debug\CoffeShop.exe
+F:\Batch6Afsar\2ndday12092019\30-09-2019 ItemDB\CoffeShop\obj\Debug\CoffeShop.pdb

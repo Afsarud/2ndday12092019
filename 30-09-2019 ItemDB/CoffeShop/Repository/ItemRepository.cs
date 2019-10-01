@@ -41,12 +41,7 @@ namespace CoffeShop.Repository
 
             return Isadded;
         }
-
-        internal bool Add(string name)
-        {
-            throw new NotImplementedException();
-        }
-
+        
         public bool CheckUniqueName(string name)
         {
             bool isUnique = false;
@@ -72,7 +67,8 @@ namespace CoffeShop.Repository
         }
         public DataTable showResult()
         {
-            
+            DataTable dataTable = new DataTable();
+
             string connectionString = @"server=DESKTOP-GIE8L6J; database= CoffeeShop; Integrated Security= True";
             SqlConnection sqlconnection = new SqlConnection(connectionString);
 
@@ -81,17 +77,16 @@ namespace CoffeShop.Repository
 
             sqlconnection.Open();
             SqlDataAdapter sqldataadapter = new SqlDataAdapter(sqlCommand);
-            DataTable dataTable = new DataTable();
             
             //showDataGridView.DataSource = dataTable;
             sqldataadapter.Fill(dataTable);
             sqlconnection.Close();
-            if (dataTable.Rows.Count > 0)
-            {
-                return dataTable;
-            }
+            //if (dataTable.Rows.Count > 0)
+            //{
+            //    return dataTable;
+            //}
             
-            //return isShow;
+            return dataTable;
         }
 
     }
